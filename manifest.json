@@ -1,0 +1,20 @@
+{
+  "short_name": "Peulla",
+  "name": "Peulla Technologies",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=192&h=192&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=512&h=512&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a"
+}
